@@ -2,7 +2,7 @@
 title: "Домашнее задание № 1"
 author: "Potapova Marina"
 date: "2024-10-19"
-output: html_document
+output: pdf_document
 ---
 
 ## Работа с данными
